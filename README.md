@@ -2,6 +2,8 @@
 
 Course website and other content for the Machine Learning for Computer Systems course.
 
+**Project in the following repository:** https://github.com/garosenbaum/cmsc25422-project. 
+ 
 ## Contents
 
 - `docs/` - Course website
